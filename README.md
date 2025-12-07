@@ -37,9 +37,15 @@ Import your Dialogflow agent and ensure intent names match backend handlers.
 
 Add the <df-messenger> widget snippet into your webpage.
 
+
+
 Project Structure
+------------------
 backend/
 frontend/
 dialogflow_assets/
--------------------------------------------------------------------------------------
+
+
+
+
 Author - Shubham Dhabu
